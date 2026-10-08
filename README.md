@@ -14,6 +14,11 @@ The live site is [startup-ideas.tech](https://startup-ideas.tech). This reposito
 - [AI product launches](https://startup-ideas.tech/categories/ai)
 - [Developer tool launches](https://startup-ideas.tech/categories/developer-tools)
 
+## Extensions
+
+- [Chrome extension](https://chromewebstore.google.com/detail/startup-idea-scout/fpeilknnmoeaekjinnpiodmdhekhinmf)
+- [Edge extension](https://microsoftedge.microsoft.com/addons/detail/startup-idea-scout/opkpgilpaeffeklmnomjgmgphjnmlecb)
+
 ## This repository
 
 There is no application code, no install, and no data export here. The product lives on the site.
